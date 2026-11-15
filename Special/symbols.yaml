@@ -1,4 +1,5 @@
-name: "Symbols"
+﻿name: "Symbols"
+rowHeightMode: FillHeight
 attributes:
   shiftable: false
 rows:
@@ -27,3 +28,4 @@ rows:
     attributes:
       width: Grow
   - bottom: "$alphabet $action $space $enter"
+

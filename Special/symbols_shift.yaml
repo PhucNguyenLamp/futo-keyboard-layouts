@@ -1,4 +1,5 @@
-name: "Symbols (Shifted)"
+﻿name: "Symbols (Shifted)"
+rowHeightMode: FillHeight
 numberRowMode: UserConfigurable
 attributes:
   shiftable: false
@@ -9,3 +10,4 @@ rows:
   - letters: ["$shift", ".", ",", "?", "!", "'", "$delete"]
     attributes: { width: Grow }
   - bottom: "$alphabet $action $space $enter"
+
