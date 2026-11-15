@@ -7,4 +7,5 @@ rows:
   - letters: ["[", "]", "{", "}", "#", "%", "^", "*", "+", "="]
   - letters: ["_", "\\", "|", "~", "<", ">", "$", "¥", "€", "•"]
   - letters: ["$shift", ".", ",", "?", "!", "'", "$delete"]
-  - bottom: "$alphabet $space $enter"
+    attributes: { width: Grow }
+  - bottom: "$alphabet $action $space $enter"

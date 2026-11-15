@@ -24,4 +24,6 @@ rows:
       - "!"
       - "'"
       - "$delete"
-  - bottom: "$alphabet $space $enter"
+    attributes:
+      width: Grow
+  - bottom: "$alphabet $action $space $enter"
